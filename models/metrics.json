@@ -1,0 +1,29 @@
+{
+    "MAE": 3.2649,
+    "RMSE": 4.1177,
+    "R2_Score": 0.8066,
+    "train_samples": 36474,
+    "test_samples": 9119,
+    "features": [
+        "distance_km",
+        "traffic_density_level",
+        "Delivery_person_Age",
+        "Delivery_person_Ratings",
+        "Vehicle_condition",
+        "multiple_deliveries",
+        "Festival",
+        "City_Semi-Urban",
+        "City_Urban",
+        "Type_of_order_Drinks",
+        "Type_of_order_Meal",
+        "Type_of_order_Snack",
+        "Type_of_vehicle_electric_scooter",
+        "Type_of_vehicle_motorcycle",
+        "Type_of_vehicle_scooter",
+        "weather_Fog",
+        "weather_Sandstorms",
+        "weather_Stormy",
+        "weather_Sunny",
+        "weather_Windy"
+    ]
+}
